@@ -1,0 +1,86 @@
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\Auto Email.exe.config
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\Auto Email.exe
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\Auto Email.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\OpenPop.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\obj\Debug\Auto_Email.MainPage.resources
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\obj\Debug\Auto_Email.PageDetail.resources
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\obj\Debug\Auto_Email.Properties.Resources.resources
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\obj\Debug\Auto Email.csproj.GenerateResource.Cache
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\obj\Debug\Auto Email.exe
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\obj\Debug\Auto Email.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\PagedList.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\PagedList.xml
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\obj\Debug\Auto Email.csprojResolveAssemblyReference.cache
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\bin\Debug\Auto Email.exe.config
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto Email.exe
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto Email.pdb
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\bin\Debug\Auto Email.exe
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\bin\Debug\Auto Email.pdb
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\bin\Debug\OpenPop.dll
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\bin\Debug\PagedList.dll
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\bin\Debug\PagedList.xml
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto_Email.MainPage.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto_Email.PageDetail.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto_Email.Properties.Resources.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto Email.csproj.GenerateResource.Cache
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\bin\Debug\Auto Email.exe.config
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\bin\Debug\Auto Email.exe
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\bin\Debug\Auto Email.pdb
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\bin\Debug\OpenPop.dll
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\bin\Debug\PagedList.dll
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\bin\Debug\PagedList.xml
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto_Email.MainPage.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto_Email.PageDetail.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto_Email.Properties.Resources.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto Email.csproj.GenerateResource.Cache
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto Email.exe
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Auto Email\Auto Email\obj\Debug\Auto Email.pdb
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\bin\Debug\Auto Email.exe.config
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\obj\Debug\Auto Email.exe
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\obj\Debug\Auto Email.pdb
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\bin\Debug\Auto Email.exe
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\bin\Debug\Auto Email.pdb
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\bin\Debug\OpenPop.dll
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\bin\Debug\PagedList.dll
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\bin\Debug\PagedList.xml
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\obj\Debug\Auto_Email.MainPage.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\obj\Debug\Auto_Email.PageDetail.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\obj\Debug\Auto_Email.Properties.Resources.resources
+C:\Users\ruzaini\Desktop\PROJECT\Testing Trial\New folder\Auto Email 180515\Code Backup\Auto Email\Auto Email\obj\Debug\Auto Email.csproj.GenerateResource.Cache
+D:\Backup\Project\Auto Email\Auto Email\bin\Debug\Auto Email.exe.config
+D:\Backup\Project\Auto Email\Auto Email\bin\Debug\Auto Email.exe
+D:\Backup\Project\Auto Email\Auto Email\bin\Debug\Auto Email.pdb
+D:\Backup\Project\Auto Email\Auto Email\bin\Debug\OpenPop.dll
+D:\Backup\Project\Auto Email\Auto Email\bin\Debug\PagedList.dll
+D:\Backup\Project\Auto Email\Auto Email\bin\Debug\PagedList.xml
+D:\Backup\Project\Auto Email\Auto Email\obj\Debug\Auto_Email.MainPage.resources
+D:\Backup\Project\Auto Email\Auto Email\obj\Debug\Auto_Email.PageDetail.resources
+D:\Backup\Project\Auto Email\Auto Email\obj\Debug\Auto_Email.Properties.Resources.resources
+D:\Backup\Project\Auto Email\Auto Email\obj\Debug\Auto Email.csproj.GenerateResource.Cache
+D:\Backup\Project\Auto Email\Auto Email\obj\Debug\Auto Email.exe
+D:\Backup\Project\Auto Email\Auto Email\obj\Debug\Auto Email.pdb
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\bin\Debug\Auto Email.exe
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\bin\Debug\OpenPop.dll
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\bin\Debug\Auto Email.exe.config
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\bin\Debug\Auto Email.pdb
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\bin\Debug\PagedList.dll
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\bin\Debug\PagedList.xml
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\obj\Debug\Auto_Email.MainPage.resources
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\obj\Debug\Auto_Email.PageDetail.resources
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\obj\Debug\Auto_Email.Properties.Resources.resources
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\obj\Debug\Auto Email.csproj.GenerateResource.Cache
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\obj\Debug\Auto Email.exe
+Z:\KERJA\PSPL\Project\Auto Email\Auto Email\Auto Email\obj\Debug\Auto Email.pdb
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\bin\Debug\Auto Email.exe.config
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\obj\Debug\Auto Email.exe
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\obj\Debug\Auto Email.pdb
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\bin\Debug\Auto Email.exe
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\bin\Debug\Auto Email.pdb
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\bin\Debug\OpenPop.dll
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\bin\Debug\PagedList.dll
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\bin\Debug\PagedList.xml
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\obj\Debug\Auto_Email.MainPage.resources
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\obj\Debug\Auto_Email.PageDetail.resources
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\obj\Debug\Auto_Email.Properties.Resources.resources
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\obj\Debug\Auto Email.csproj.GenerateResource.Cache
+D:\Backup\Project\Latest\Auto Email_20190225\Auto Email\Auto Email\Auto Email\obj\Debug\Auto Email.csprojResolveAssemblyReference.cache

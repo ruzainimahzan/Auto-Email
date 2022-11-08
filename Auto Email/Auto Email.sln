@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto Email", "Auto Email\Auto Email.csproj", "{33D1C0F6-1D8E-468A-994B-EABA056F78B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto Email Class", "Auto Email Class\Auto Email Class.csproj", "{EFAF6864-7244-4D95-9284-A0E39EDC1037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mime", "Mime\Mime.csproj", "{16E28880-EF12-47BE-9FD1-F2968FDE11BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountCredential", "AccountCredential\AccountCredential.csproj", "{16B3608B-DE98-4804-8564-940BA1C5ADF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D1C0F6-1D8E-468A-994B-EABA056F78B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D1C0F6-1D8E-468A-994B-EABA056F78B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D1C0F6-1D8E-468A-994B-EABA056F78B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D1C0F6-1D8E-468A-994B-EABA056F78B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAF6864-7244-4D95-9284-A0E39EDC1037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAF6864-7244-4D95-9284-A0E39EDC1037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAF6864-7244-4D95-9284-A0E39EDC1037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAF6864-7244-4D95-9284-A0E39EDC1037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E28880-EF12-47BE-9FD1-F2968FDE11BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E28880-EF12-47BE-9FD1-F2968FDE11BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E28880-EF12-47BE-9FD1-F2968FDE11BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E28880-EF12-47BE-9FD1-F2968FDE11BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B3608B-DE98-4804-8564-940BA1C5ADF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B3608B-DE98-4804-8564-940BA1C5ADF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B3608B-DE98-4804-8564-940BA1C5ADF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B3608B-DE98-4804-8564-940BA1C5ADF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

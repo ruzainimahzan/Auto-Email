@@ -1,0 +1,6 @@
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\LoadTable\bin\Debug\LoadTable.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\LoadTable\bin\Debug\LoadTable.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\DBClass.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\DBClass.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\LoadTable\obj\Debug\DBClass.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\LoadTable\obj\Debug\DBClass.pdb

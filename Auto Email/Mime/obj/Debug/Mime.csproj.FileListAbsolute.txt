@@ -1,0 +1,7 @@
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Mime\bin\Debug\Mime.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Mime\bin\Debug\Mime.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Mime\bin\Debug\OpenPop.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Mime\obj\Debug\Mime.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Mime\obj\Debug\Mime.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\Mime.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\Mime.pdb

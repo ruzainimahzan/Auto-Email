@@ -1,0 +1,7 @@
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email Class\bin\Debug\Auto Email Class.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email Class\bin\Debug\Auto Email Class.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email Class\obj\Debug\Auto Email Class.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email Class\obj\Debug\Auto Email Class.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\Auto Email Class.dll
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email\bin\Debug\Auto Email Class.pdb
+C:\Users\ruzaini\Desktop\Ruzaini Mahzan\Automated Email\Auto Email\Auto Email Class\obj\Debug\Auto Email Class.csprojResolveAssemblyReference.cache
